@@ -1,4 +1,5 @@
 const fs = require('fs');
+
 const script = require('./script');
 
 fs.mkdir(`./jscx-1800`, (err) => {
